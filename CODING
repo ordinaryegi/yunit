@@ -1,4 +1,4 @@
-Building unity8org
+Building yunit
 ==================
 
 Only Ubuntu 17.04 (zesty) is supported as a developement environment.
@@ -6,12 +6,12 @@ Only Ubuntu 17.04 (zesty) is supported as a developement environment.
 download source
 ---------------
 - $ cd ~
-- fetch unity8org
+- fetch yunit
   $ sudo apt-get install git
-  $ git clone https://github.com/unity8org/unity8org.git
-  $ cd ~/unity8org
+  $ git clone https://github.com/yunit-io/yunit.git
+  $ cd ~/yunit
 
-install dependencies and build unity8org
+install dependencies and build yunit
 ----------------------------------------
 $ sudo apt install devscripts equivs cmake
 $ ./build.sh
@@ -26,15 +26,15 @@ You may also rebuild with the -c for clean, which just deletes the build
 directory.
 
 
-Running unity8org on your desktop
+Running yunit on your desktop
 =================================
 
-run the unity8org shell
+run the yunit shell
 -----------------------
-$ cd ~/unity8org
+$ cd ~/yunit
 $ cd builddir
 
-Each component of unity8org can be ran independently for development and testing
+Each component of yunit can be ran independently for development and testing
 For example:
 $ make tryShell
 $ make tryLauncher
@@ -59,16 +59,16 @@ Notes
     - Populate the address book with sample data
 
 
-Running unity8org on devices
+Running yunit on devices
 ============================
 
-Running unity8org on a device should be done using crossbuilder.
+Running yunit on a device should be done using crossbuilder.
 Go to 
 * https://launchpad.net/crossbuilder and
 * https://wiki.ubuntu.com/Touch/Crossbuilder 
 for more details on crossbuilder.
 
-unity8org will automatically restart on the phone once deployment
+yunit will automatically restart on the phone once deployment
 has finished due to post-build-steps set up in this repository.
 
 Coding guidelines
@@ -80,7 +80,7 @@ Development Environment
 =======================
 
 QtCreator (available via the Software Center) is the best IDE to hack on
-unity8org.
+yunit.
 
 If using VIM, make sure you install some syntax highlighting for QML, like
 https://github.com/peterhoeg/vim-qml
@@ -161,7 +161,7 @@ $ PYTHONPATH=../tests/autopilot autopilot3 run unity8
 Debugging techniques
 ====================
 
-unity8org heavily uses Qt and with that Qt debugging techniques mostly apply in the
+yunit heavily uses Qt and with that Qt debugging techniques mostly apply in the
 same fashion. There are, however, some additional unity8-specific notes:
 
 * Enable/disable Qt scenegraph visualizer on the fly:
