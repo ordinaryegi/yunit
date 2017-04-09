@@ -2,13 +2,14 @@
 # Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
 # This file is distributed under the same license as the unity8 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+# Miki <Unknown>, 2017.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: unity8\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2017-03-28 21:50+0000\n"
-"PO-Revision-Date: 2015-12-01 20:06+0000\n"
+"PO-Revision-Date: 2017-04-09 20:06+0000\n"
 "Last-Translator: Miki <Unknown>\n"
 "Language-Team: Croatian <cr@li.org>\n"
 "MIME-Version: 1.0\n"
