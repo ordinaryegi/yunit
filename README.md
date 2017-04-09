@@ -10,6 +10,5 @@ For help with translations do a pull request with the changes that you made to t
 ## Contact Us
 
 If you are interesting in helping us in any way you can join yunit devel mailing list for discussions related to the development of the project.
-* For general discussions about the project please visit subreddit.
-* For reporting issues with the code or wishes please us the project’s issues page in github.
-* For IM you can join our Telegram groups for UT users (and others until full) and for those who have support for super groups.
+* For general discussions about the project please visit subreddit. https://yunit.io/cgi-bin/mailman/listinfo/dev
+* For IM you can join our Telegram groups for UT users https://t.me/joinchat/AAAAAAsUbsakPJGOP9msRg (and others until full) and for those who have support for super groups.https://t.me/joinchat/AAAAAAofPKHQ45Vxy4qhuQ
