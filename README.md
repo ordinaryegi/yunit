@@ -7,8 +7,10 @@ Please check [yunit's web site](http://www.yunit.io) (currently under constructi
 ** See the file CODING for build and running instructions **
 ## Translations
 For help with translations do a pull request with the changes that you made to the .po file of your language. 
-## Contact Us
 
-If you are interesting in helping us in any way you can join yunit devel mailing list for discussions related to the development of the project.
-* For general discussions about the project please visit subreddit. https://yunit.io/cgi-bin/mailman/listinfo/dev
-* For IM you can join our Telegram groups for UT users https://t.me/joinchat/AAAAAAsUbsakPJGOP9msRg (and others until full) and for those who have support for super groups.https://t.me/joinchat/AAAAAAofPKHQ45Vxy4qhuQ
+### Contact Us ###
+
+* If you are interesting in helping us in any way you can join [yunit devel](https://yunit.io/cgi-bin/mailman/listinfo/dev) mailing list for discussions related to the development of the project.
+* For reporting issues with the code or wishes please use the project’s [issues page, here in github](https://github.com/yunit-io/yunit/issues).
+* For general discussions about the project please visit [subreddit](https://www.reddit.com/r/Yunit).
+* For IM you can join our Telegram groups [for UT users (and others until full)](https://t.me/joinchat/AAAAAAsUbsakPJGOP9msRg) and [for those who have support for super groups](https://t.me/joinchat/AAAAAAofPKHQ45Vxy4qhuQ).
